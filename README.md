@@ -69,7 +69,7 @@ You can use `TKTransitionSubmitButton` just like any other `UIButton`. It works 
 Add this at the top of your file:
 
 ``` swift
-import SubmitTransition
+import TKSubmitTransition
 ```
 
 Then create a variable above your view did load for the button
